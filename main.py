@@ -1,3 +1,3 @@
-import supperfun
+import superfun
 
-supperfun.fuu('Tashivshanonen')
+superfun.fuu('Tashivshanonen')
