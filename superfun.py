@@ -1,4 +1,5 @@
 
 def fuu(stringer):
-    print(stringer"
+    print("stringer")
+
 
