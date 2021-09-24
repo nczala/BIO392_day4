@@ -1,3 +1,5 @@
 import superfun
 
-superfun.fuu('Tashivshanonen')
+for i in range(10):
+    superfun.fuu('Tashivshanonen')
+
